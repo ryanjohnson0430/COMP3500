@@ -1,2 +1,1 @@
-# COMP3500
-# COMP3500
+This repository contains assignments for my COMP3500 class (Internet of Things).
